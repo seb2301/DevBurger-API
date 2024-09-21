@@ -1,0 +1,27 @@
+{
+  "name": "devburger-api",
+  "version": "1.0.0",
+  "description": "DevBurger API.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "Sebastião Soares",
+  "URL": "https://github.com/seb2301",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3",
+    "sucrase": "^3.35.0"
+  },
+  "dependencies": {
+    "D": "^1.0.0",
+    "eslint": "^9.10.0",
+    "express": "^4.21.0"
+  }
+}
